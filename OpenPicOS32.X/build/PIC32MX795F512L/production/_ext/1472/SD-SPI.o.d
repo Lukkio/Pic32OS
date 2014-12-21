@@ -1,0 +1,24 @@
+build/PIC32MX795F512L/production/_ext/1472/SD-SPI.o:  \
+../SD-SPI.c  \
+ ../Header/Compiler.h  \
+../Header/GenericTypeDefs.h  \
+ ../Header/HardwareProfile.h  \
+../Header/uart2.h  \
+../Header/FSIO.h  \
+ ../Header/../Header/GenericTypeDefs.h  \
+ ../Header/../Header/Pic32/FSconfig.h  \
+ ../Header/../Header/Pic32/../Compiler.h  \
+ ../Header/../Header/Pic32/../HardwareProfile.h  \
+ ../Header/../Header/FSDefs.h  \
+../Header/../Header/GenericTypeDefs.h  \
+ ../Header/../Header/SD-SPI.h  \
+ ../Header/../Header/../Header/GenericTypeDefs.h  \
+ ../Header/../Header/../Header/Pic32/FSconfig.h  \
+ ../Header/../Header/../Header/Pic32/../Compiler.h  \
+ ../Header/../Header/../Header/Pic32/../HardwareProfile.h  \
+ ../Header/../Header/../Header/FSDefs.h  \
+../Header/FSDefs.h  \
+ ../Header/SD-SPI.h  \
+../Header/Pic32/FSconfig.h  \
+ ../Header/Pic32/../Compiler.h  \
+../Header/Pic32/../HardwareProfile.h 
